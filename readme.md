@@ -23,3 +23,4 @@
     - 接受产前护理的孕妇是在妊娠期因妊娠相关原因而至少经熟练的医务人员护理过一次的孕妇的百分比。
 - [避孕普及率（占 15–49 岁女性的百分比）](https://data.worldbank.org.cn/indicator/SP.DYN.CONU.ZS)
   
+[孕产妇死亡率（模型估计值，每10万例活产中所占比例）](https://data.worldbank.org.cn/indicator/SH.STA.MMRT)
